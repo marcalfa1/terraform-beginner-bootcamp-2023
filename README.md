@@ -66,3 +66,6 @@ https://en.wikipedia.org/wiki/Chmod
 
 ### Github Lifecycle (Before, Init, Command)
 https://www.gitpod.io/docs/configure/workspaces/tasks
+
+
+### Working Env Vars
