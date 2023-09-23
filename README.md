@@ -69,3 +69,7 @@ https://www.gitpod.io/docs/configure/workspaces/tasks
 
 
 ### Working Env Vars
+
+### AWS CLI Installation
+
+AWS CLI is installed for the project via the bash script
