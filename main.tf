@@ -1,4 +1,18 @@
 terraform {
+  #backend "remote" {
+  #  hostname = "app.terraform.io"
+  #  organization = "ExamPro"
+
+  #  workspaces {
+  #    name = "terra-house-1"
+  #  }
+  #}
+  cloud {
+    organization = "ExamPro"
+    workspaces {
+      name = "terra-house-1"
+    }
+  }
   required_providers {
     random = {
       source = "hashicorp/random"
@@ -34,4 +48,4 @@ resource "aws_s3_bucket" "example" {
 
 output "random_bucket_name" {
   value = random_string.bucket_name.result
-}  
+}
