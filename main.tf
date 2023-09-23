@@ -8,7 +8,7 @@ terraform {
   #  }
   #}
   cloud {
-    organization = "ExamPro"
+    organization = "3msolutions"
     workspaces {
       name = "terra-house-1"
     }
@@ -27,6 +27,7 @@ terraform {
 
 provider "aws" {
 }
+
 provider "random" {
   # Configuration options
 }
