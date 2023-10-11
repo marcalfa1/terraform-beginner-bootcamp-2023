@@ -4,6 +4,7 @@ variable "user_uuid" {
 
 variable "bucket_name" {
  type = string
+<<<<<<< HEAD
 }
 
 variable "index_html_filepath" {
@@ -12,4 +13,6 @@ variable "index_html_filepath" {
 
 variable "error_html_filepath" {
   type = string
+=======
+>>>>>>> main
 }
