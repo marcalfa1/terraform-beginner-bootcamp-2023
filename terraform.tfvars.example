@@ -1,7 +1,7 @@
 terratowns_endpoint="https://terratowns.cloud/api"
 e30m3 = {
-  public_path = "/workspace/terraform-beginner-bootcamp-2023/public/e30m3"
-  content_version = 2 
+  public_path = "/workspace/terraform-beginner-bootcamp-2023/public/e30m3" 
+  content_version = 1 
 }
 e36m3 = {
   public_path = "/workspace/terraform-beginner-bootcamp-2023/public/e36m3"

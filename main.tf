@@ -88,4 +88,6 @@ DESCRIPTION
   domain_name = module.home_applepie_hosting.domain_name
   town = "missingo"
   content_version = var.applepie.content_version
+  town = "missingo"
+  content_version = var.e36m3.content_version
 }
