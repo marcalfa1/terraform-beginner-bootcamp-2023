@@ -23,3 +23,10 @@ variable "e36m3" {
     content_version = number
   })
 }
+
+variable "applepie" {
+  type = object({
+    public_path = string
+    content_version = number
+  })
+}
