@@ -86,8 +86,6 @@ whether it's a festive celebration or a cozy family dinner, this apple pie is su
 Dive into the deliciousness of tradition and make lasting memories around the delightful aura of this timeless dessert!
 DESCRIPTION
   domain_name = module.home_applepie_hosting.domain_name
-  town = "missingo"
+  town = "cooker-cove"
   content_version = var.applepie.content_version
-  town = "missingo"
-  content_version = var.e36m3.content_version
 }
